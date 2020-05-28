@@ -7,11 +7,11 @@ just make a table of pizzas and insert coloums of id, email, name, ingredients, 
 
 Type :
 
-id = int
-email = varchar
-name = varchar
-ingredients = varchar
-created_at = timestamp  with a value of current timestamp
+id = int ;
+email = varchar ; 
+name = varchar ; 
+ingredients = varchar ; 
+created_at = timestamp ; (with a value of current timestamp)
 
 
 
