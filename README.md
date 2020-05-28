@@ -20,4 +20,4 @@ press go
 
 Congo ypu just made a database for this site.
 
-who you are waiting for.. go check the index.php file
+whom you are waiting for.. go check the index.php file
