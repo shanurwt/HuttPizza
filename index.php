@@ -32,7 +32,7 @@ explode(',', $pizzas[0]['ingredients']);                                    // s
 
 <?php include('huttpizza/header.php'); ?>
 
-<h4 class="center grey-text">Pizzas!</h4>
+<h4 class="center brand-text">Pizzas!</h4>
 <div class="container">
 
     <div class="row">
@@ -44,7 +44,7 @@ explode(',', $pizzas[0]['ingredients']);                                    // s
                 <div class="card z-depth-0">
 
                     <img src="img/Pizza.png" class="pizza">
-                    <div class="card-content center">
+                    <div class="card-content center back">
                         <h6><?php echo htmlspecialchars($pizza['name']);              ?></h6>
 
                         <ul>

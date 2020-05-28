@@ -1,6 +1,6 @@
 <footer class="section">
 
-    <div class="center grey-text">Copyright 2020 Hutt Pizza</div>
+    <div class="center brand-text">Copyright 2020 Hutt Pizza</div>
 
 </footer>
 

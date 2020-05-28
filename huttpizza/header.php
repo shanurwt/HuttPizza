@@ -10,11 +10,13 @@
 
     <style>
         .brand {
-            background: #cbb09c !important;
+            background-image: linear-gradient(45deg, #985dcc, #4545f6) !important;
         }
 
+
+
         .brand-text {
-            color: #cbb09c !important;
+            color: #24243a !important;
         }
 
         form {
