@@ -42,6 +42,8 @@ explode(',', $pizzas[0]['ingredients']);                                    // s
 
             <div class="col s6 md3">
                 <div class="card z-depth-0">
+
+                    <img src="img/Pizza.png" class="pizza">
                     <div class="card-content center">
                         <h6><?php echo htmlspecialchars($pizza['name']);              ?></h6>
 
